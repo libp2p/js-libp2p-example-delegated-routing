@@ -41,7 +41,7 @@ This should open your browser to <http://localhost:3000>. If it does not, go ahe
 
 1. Enter the CID of the block you wish to find providers for, one is pre-filled for your convenience
 2. Click "Find Providers"
-3. If any exist, provders will start to appear in the box beneath the input fields
+3. If any exist, providers will start to appear in the box beneath the input fields
 
 ### Finding Peers via the Delegate
 
